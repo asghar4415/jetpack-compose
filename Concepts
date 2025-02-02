@@ -1,0 +1,18 @@
+what is jetpack compose:
+Jetpack Compose is a modern toolkit for building native Android UI. Jetpack Compose simplifies and accelerates UI development on Android with less code, powerful tools, and intuitive Kotlin APIs.
+
+what are composable funcitons:
+Composable functions are the building blocks of your UI in Jetpack Compose. They are lightweight, stateless, and define the UI structure based on the input parameters. Composable functions can be combined and reused to create complex UI components.
+
+what is state in jetpack compose:
+State in Jetpack Compose represents the data that can change over time and trigger recomposition of the UI. State can be used to manage user input, network requests, and other dynamic data in your app.
+
+what is a modifier:
+A Modifier is a set of layout and drawing instructions that can be applied to a composable function to customize its appearance and behavior. Modifiers can be used to change the size, padding, alignment, and other properties of a composable function.
+
+what is a slot:
+A slot is a placeholder in a composable function that can be filled with other composable functions or content. Slots are used to create flexible and reusable UI components that can be customized with different content.
+
+what is a recomposition:
+Recomposition is the process of updating the UI in response to changes in the state or input parameters of a composable function. When the state or input parameters of a composable function change, Jetpack Compose automatically triggers recomposition to reflect the updated UI.
+
